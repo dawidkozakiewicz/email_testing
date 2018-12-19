@@ -29,7 +29,7 @@
 							<div class="inner">
 <?php
 
-$to      = 'turgor1996@gmail.com';
+$to      = 'postmaster@dawidkozakiewicz.com';
 $name    = $_POST['name'];
 $email   = $_POST['email'];
 $subject = 'Nowy e-mail od ' . $name . ' (' . $email . ')';
